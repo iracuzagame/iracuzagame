@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Abel 🧑... and I'm a enthusiastic, proactive, didactic 😎..., from Venezuela, Caracas 🇻🇪</p>
+<p align="left">My name is Abel 🧑... and I'm a enthusiastic, proactive, didactic 😎..., from Caracas, Venezuela 🇻🇪</p>
 
 ###
 
