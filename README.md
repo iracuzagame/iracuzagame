@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Abel... and I'm a enthusiastic, proactive, didactic..., from Venezuela ....</p>
+<p align="left">My name is Abel 🧑... and I'm a enthusiastic, proactive, didactic 😎..., from Venezuela, Caracas 🇻🇪</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018 ...<br>📚 I'm programmer junior in currently learning ...<br></p>
+<p align="left">✨ Creating bugs since 2018 ...<br>📚 I'm programmer junior in currently learning 💻 and promoter 💪...<br></p>
 
 ###
 
@@ -27,7 +27,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg1" height="40" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
